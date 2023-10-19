@@ -4,7 +4,7 @@ on:
     - cron: "*/55 * * * *" # every 55 mins
   push:
 env:
-  OPTIMISM_GOERLI_RPC_URL: ${{secrets.OPTIMISM_GOERLI_RPC_URL}}
+  OPTIMISM_MAINNET_RPC_URL: ${{secrets.OPTIMISM_MAINNET_RPC_URL}}
   NODE_OPTIONS: "--max_old_space_size=32768"
 permissions: write-all
 jobs:
@@ -29,39 +29,35 @@ jobs:
         with:
           install-command: yarn
       # -------------------------------------------------------- #
-      # Optimism Goerli
+      # Optimism Mainnet
       # -------------------------------------------------------- #
-      # 0. Uninstall
-      # - name: Uninstall Previous PoolTogether V5 CLI
-      #   run: |
-      #     npm uninstall -g @generationsoftware/pt-v5-cli
       # 1. Install
       - name: Install PoolTogether V5 CLI
         run: |
-          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.50
+          npm install -g @generationsoftware/pt-v5-cli@1.0.0
           echo "$(npm -g bin)" >> $GITHUB_PATH
       # 2. Compute
-      - name: Optimism Goerli Draw Prizes
-        id: drawPrizesOptimismGoerli
+      - name: Optimism Mainnet Draw Prizes
+        id: drawPrizesOptimismMainnet
         uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
         continue-on-error: true
         with:
-          run_command: ptv5 compute drawPrizes -o ./prizes -p 0x8faf98698e4ff29149a8a9d06db20e3509f3754b -c 420
+          run_command: ptv5 compute drawPrizes -o ./prizes -p 0xe32e5E1c5f0c80bD26Def2d0EA5008C107000d6A -c 10
       # 3. Commit
-      - name: Commit Optimism Goerli
-        if: steps.drawPrizesOptimismGoerli.outputs.runStatus == 'true'
+      - name: Commit Optimism Mainnet
+        if: steps.drawPrizesOptimismMainnet.outputs.runStatus == 'true'
         continue-on-error: true
         run: |
           git config pull.rebase false
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git pull
-          git add ./prizes/420
-          git commit -m "Add testnet draw for Optimism Goerli draw #${{steps.drawPrizesOptimismGoerli.outputs.drawId}}"
+          git add ./prizes/10
+          git commit -m "Add draw for Optimism Mainnet draw #${{steps.drawPrizesOptimismMainnet.outputs.drawId}}"
       # 4. Push
       - name: Push changes (if required)
         uses: ad-m/github-push-action@master
-        if: steps.drawPrizesOptimismGoerli.outputs.runStatus == 'true'
+        if: steps.drawPrizesOptimismMainnet.outputs.runStatus == 'true'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
@@ -71,7 +67,7 @@ jobs:
       # -------------------------------------------------------- #
       - name: Comment Error
         id: commentError
-        if: steps.drawPrizesOptimismGoerli.outputs.exitcode == 1
+        if: steps.drawPrizesOptimismMainnet.outputs.exitcode == 1
         uses: actions/github-script@v5
         continue-on-error: true
         with:
