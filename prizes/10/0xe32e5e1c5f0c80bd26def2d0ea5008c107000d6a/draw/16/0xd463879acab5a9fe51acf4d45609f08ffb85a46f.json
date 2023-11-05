@@ -1,0 +1,82 @@
+[
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 2,
+    "prizeIndex": 11,
+    "claimed": false,
+    "amount": "23589587461545848318"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 3,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "978098796880225006"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 3,
+    "prizeIndex": 58,
+    "claimed": false,
+    "amount": "978098796880225006"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 4,
+    "prizeIndex": 34,
+    "claimed": false,
+    "amount": "208565184628871508"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 4,
+    "prizeIndex": 52,
+    "claimed": false,
+    "amount": "208565184628871508"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 4,
+    "prizeIndex": 126,
+    "claimed": false,
+    "amount": "208565184628871508"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 4,
+    "prizeIndex": 132,
+    "claimed": false,
+    "amount": "208565184628871508"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 4,
+    "prizeIndex": 144,
+    "claimed": false,
+    "amount": "208565184628871508"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 4,
+    "prizeIndex": 175,
+    "claimed": false,
+    "amount": "208565184628871508"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xd463879acab5a9fe51acf4d45609f08ffb85a46f",
+    "tier": 4,
+    "prizeIndex": 179,
+    "claimed": false,
+    "amount": "208565184628871508"
+  }
+]
