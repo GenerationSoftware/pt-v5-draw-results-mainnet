@@ -1,0 +1,26 @@
+[
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xcd66a0ae53cc1f58b2e709e5def44d06a19c71ce",
+    "tier": 4,
+    "prizeIndex": 56,
+    "claimed": false,
+    "amount": "125990786233669970"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xcd66a0ae53cc1f58b2e709e5def44d06a19c71ce",
+    "tier": 4,
+    "prizeIndex": 222,
+    "claimed": false,
+    "amount": "125990786233669970"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0xcd66a0ae53cc1f58b2e709e5def44d06a19c71ce",
+    "tier": 4,
+    "prizeIndex": 253,
+    "claimed": false,
+    "amount": "125990786233669970"
+  }
+]
