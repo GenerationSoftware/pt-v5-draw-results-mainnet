@@ -1,13 +1,13 @@
 {
   "status": "SUCCESS",
-  "createdAt": 1701252055680,
-  "updatedAt": 1701252292532,
-  "runtime": 237,
+  "createdAt": 1701266460095,
+  "updatedAt": 1701266715592,
+  "runtime": 256,
   "meta": {
     "numVaults": 6,
     "numTiers": 5,
     "numPrizeIndices": 341,
-    "numAccounts": 723,
+    "numAccounts": 724,
     "numPrizes": 292,
     "prizePoolReserve": "40650754198353194733",
     "amountsTotal": "2236230062634858340879",
