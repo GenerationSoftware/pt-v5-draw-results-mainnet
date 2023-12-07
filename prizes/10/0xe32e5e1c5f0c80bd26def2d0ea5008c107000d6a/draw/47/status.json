@@ -1,13 +1,13 @@
 {
   "status": "SUCCESS",
-  "createdAt": 1701900051317,
-  "updatedAt": 1701900310596,
-  "runtime": 260,
+  "createdAt": 1701915135932,
+  "updatedAt": 1701915394042,
+  "runtime": 259,
   "meta": {
     "numVaults": 8,
     "numTiers": 5,
     "numPrizeIndices": 341,
-    "numAccounts": 761,
+    "numAccounts": 762,
     "numPrizes": 314,
     "prizePoolReserve": "200288588320578942525",
     "amountsTotal": "2605948114693964477568",
@@ -20,13 +20,13 @@
     },
     "vaultPortions": {
       "0x019ff7c88119bffce03cfa163148bc2e051f5905": "0",
-      "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715": "95227508022979132",
+      "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715": "92921432833551715",
       "0x2ac482d67f009acfc242283b6d86bc6dd4e2ee4f": "0",
-      "0x2ef789080933cabbeb8ce364ce877fc54a6add06": "1228",
+      "0x2ef789080933cabbeb8ce364ce877fc54a6add06": "1138",
       "0xaeed086d841ae6e86fa9003d84a05999a71bc983": "0",
-      "0xbd8fd33e53ab4120638c34cbd454112b39f6b382": "23785035669019",
-      "0xce8293f586091d48a0ce761bbf85d5bcaa1b8d2b": "4271277806921830",
-      "0xe3b3a464ee575e8e25d2508918383b89c832f275": "900477429134428788"
+      "0xbd8fd33e53ab4120638c34cbd454112b39f6b382": "22040639329088",
+      "0xce8293f586091d48a0ce761bbf85d5bcaa1b8d2b": "5542821068210689",
+      "0xe3b3a464ee575e8e25d2508918383b89c832f275": "901513705458907368"
     }
   }
 }
