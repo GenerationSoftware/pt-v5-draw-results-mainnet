@@ -4,7 +4,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 3,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -12,7 +12,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 59,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -20,7 +20,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 61,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -28,7 +28,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 90,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -36,7 +36,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 119,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -44,7 +44,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 129,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -52,7 +52,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 155,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -60,7 +60,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 175,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -68,7 +68,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 187,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   },
   {
@@ -76,7 +76,7 @@
     "winner": "0x0a09cd09b0107bb98a83f211704f036eca94b92e",
     "tier": 4,
     "prizeIndex": 213,
-    "claimed": false,
+    "claimed": true,
     "amount": "344286576591419931"
   }
 ]
