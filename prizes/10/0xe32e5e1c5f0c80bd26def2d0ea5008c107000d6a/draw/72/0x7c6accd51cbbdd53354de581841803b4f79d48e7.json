@@ -4,7 +4,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 0,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -12,7 +12,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 5,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -20,7 +20,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 35,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -28,7 +28,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 177,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -228,7 +228,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 18,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -236,7 +236,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 65,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -244,7 +244,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 206,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -380,7 +380,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 2,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -388,7 +388,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 99,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
@@ -396,7 +396,7 @@
     "winner": "0x7c6accd51cbbdd53354de581841803b4f79d48e7",
     "tier": 4,
     "prizeIndex": 109,
-    "claimed": false,
+    "claimed": true,
     "amount": "496127184856056351"
   },
   {
