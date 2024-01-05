@@ -1212,7 +1212,7 @@
     "winner": "0x7d8dd9fee145ebf10ca5e26479f4a32aeb0a0fba",
     "tier": 3,
     "prizeIndex": 52,
-    "claimed": false,
+    "claimed": true,
     "amount": "6419049683778424617"
   },
   {
@@ -1228,7 +1228,7 @@
     "winner": "0x7d8dd9fee145ebf10ca5e26479f4a32aeb0a0fba",
     "tier": 4,
     "prizeIndex": 70,
-    "claimed": false,
+    "claimed": true,
     "amount": "796104352466481004"
   },
   {
@@ -1236,7 +1236,7 @@
     "winner": "0x7d8dd9fee145ebf10ca5e26479f4a32aeb0a0fba",
     "tier": 4,
     "prizeIndex": 85,
-    "claimed": false,
+    "claimed": true,
     "amount": "796104352466481004"
   },
   {
@@ -1244,7 +1244,7 @@
     "winner": "0x7d8dd9fee145ebf10ca5e26479f4a32aeb0a0fba",
     "tier": 4,
     "prizeIndex": 164,
-    "claimed": false,
+    "claimed": true,
     "amount": "796104352466481004"
   },
   {
