@@ -6,5 +6,13 @@
     "prizeIndex": 242,
     "claimed": false,
     "amount": "395382619473415307"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x28458788fb965bcac5f0df629916a3735112dac6",
+    "tier": 3,
+    "prizeIndex": 47,
+    "claimed": false,
+    "amount": "2072149626992346329"
   }
 ]
