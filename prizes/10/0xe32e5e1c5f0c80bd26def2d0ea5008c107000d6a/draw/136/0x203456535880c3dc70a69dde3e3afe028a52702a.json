@@ -1,0 +1,74 @@
+[
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 3,
+    "prizeIndex": 8,
+    "claimed": false,
+    "amount": "3764981561935685709"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 3,
+    "prizeIndex": 27,
+    "claimed": false,
+    "amount": "3764981561935685709"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 3,
+    "prizeIndex": 30,
+    "claimed": false,
+    "amount": "3764981561935685709"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 4,
+    "prizeIndex": 40,
+    "claimed": false,
+    "amount": "802826950706874158"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 4,
+    "prizeIndex": 60,
+    "claimed": false,
+    "amount": "802826950706874158"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 4,
+    "prizeIndex": 139,
+    "claimed": false,
+    "amount": "802826950706874158"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 4,
+    "prizeIndex": 156,
+    "claimed": false,
+    "amount": "802826950706874158"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 4,
+    "prizeIndex": 193,
+    "claimed": false,
+    "amount": "802826950706874158"
+  },
+  {
+    "vault": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+    "winner": "0x203456535880c3dc70a69dde3e3afe028a52702a",
+    "tier": 4,
+    "prizeIndex": 231,
+    "claimed": false,
+    "amount": "802826950706874158"
+  }
+]
