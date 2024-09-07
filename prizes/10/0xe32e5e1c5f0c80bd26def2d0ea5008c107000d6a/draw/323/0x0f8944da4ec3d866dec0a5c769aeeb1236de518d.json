@@ -1,0 +1,74 @@
+[
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "1374219357218991625"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "49151701304881362"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "49151701304881362"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 4,
+    "claimed": false,
+    "amount": "49151701304881362"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 6,
+    "claimed": false,
+    "amount": "49151701304881362"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 9,
+    "claimed": false,
+    "amount": "49151701304881362"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 11,
+    "claimed": false,
+    "amount": "49151701304881362"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 12,
+    "claimed": false,
+    "amount": "49151701304881362"
+  },
+  {
+    "vault": "0xf0b19f02c63d51b69563a2b675e0160e1c34397c",
+    "winner": "0x0f8944da4ec3d866dec0a5c769aeeb1236de518d",
+    "tier": 2,
+    "prizeIndex": 14,
+    "claimed": false,
+    "amount": "49151701304881362"
+  }
+]
